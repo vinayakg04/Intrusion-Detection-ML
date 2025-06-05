@@ -25,5 +25,3 @@ This is my B.Tech Project, where I created a model which can detect network intr
 8. BiLSTM Layer
 9. Dropout Layer
 10. Dense Layer (Softmax Regression in case of Multi-Class Classification and Logistic Regression in case of Binary Classification)
-
-PPT Link: https://www.canva.com/design/DAGNOmyvUU4/5tyNhD6c0KHF3Fx624fEnQ/view?utm_content=DAGNOmyvUU4&utm_campaign=designshare&utm_medium=link&utm_source=editor 
